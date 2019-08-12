@@ -1,2 +1,2 @@
 # stone-paper-scissor
-Let's have some fun with bot & see who wins!
+Let's try this game with bot & see who wins!
